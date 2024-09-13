@@ -4,4 +4,4 @@
 ## Installation
 - Install PostgreSQL on your system following the instructions provided by the [PostgreSQL](https://www.postgresql.org/download/ "PostgreSQL") website.
 
-- Extract the downloaded .tar file to a local directory. Import the dvdrental sample database schema
+- Download the dvdrental.tar file in the database folder and extract it to a local directory. Import the dvdrental sample database updates
